@@ -4,6 +4,8 @@ from nltk.corpus import stopwords
 nltk.download('punkt')
 nltk.download('stopwords')
 
+# the below is a famous monologue from Shakespeare
+
 paragraph = """Yet here, Laertes! aboard, aboard, for shame!
 The wind sits in the shoulder of your sail,
 And you are stay’d for. There; my blessing with thee!
